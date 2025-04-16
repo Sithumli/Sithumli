@@ -27,9 +27,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: [Sithumli Nanayakkara](https://www.linkedin.com/in/sithumli-nanayakkara-228486311/)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithumli-nanayakkara-228486311/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithumli-nanayakkara-228486311/) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithumli&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithumli&layout=compact)<br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sithumli&show_icons=true&theme=transparent)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
