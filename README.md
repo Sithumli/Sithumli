@@ -29,8 +29,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithumli-nanayakkara-228486311/) <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithumli&layout=donut)](https://github.com/Sithumli/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sithumli&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     |<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> |
