@@ -18,7 +18,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma<br>
 
 🌱 **I’m currently learning:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced concepts in C#, Java, and Python.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Game development techniques to enhance my skills in Unity.<br>
 
 ⚽ **Hobbies**<br>
