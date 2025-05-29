@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sithumli</h1>
+<h1 align="center">Hi 👋, I'm Sithumli Nanayakkara</h1>
 <h3 align="center">An energetic and friendly programmer with a passion for creating engaging and innovative software solutions. I thrive in dynamic environments and enjoy collaborating with others to bring ideas to life.</h3>
 
 <br>🏆 **Skills**<br>
@@ -38,6 +38,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" style="background-color: #f5f5f5; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; display: inline-block;">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" 
+      alt="nextjs" 
+      width="40" 
+      height="40" 
+      style="margin: 10px; background-color: white; border-radius: 6px;"
+    />
+  </a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin: 10px;"/>
   </a>
