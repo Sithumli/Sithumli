@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <table style="width:100%">
+  <table width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <th colspan="2" align="center">Programming Languages</th>
     </tr>
@@ -55,14 +55,14 @@
       <th width="50%" align="center">Backend & Database</th>
     </tr>
     <tr>
-      <td align="center">
+      <td width="50%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
         <img width="10" />
         <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
         <img width="10" />
         <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
       </td>
-      <td align="center">
+      <td width="50%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
@@ -75,14 +75,14 @@
       <th width="50%" align="center">DevOps</th>
     </tr>
     <tr>
-      <td align="center">
+      <td width="50%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo" />
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo" />
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo" />
       </td>
-      <td align="center">
+      <td width="50%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
