@@ -27,12 +27,12 @@
 </div>
 
 <div align="center">
-  <table>
+  <table style="width:100%">
     <tr>
-      <th align="center">Programming Languages</th>
+      <th colspan="2" align="center">Programming Languages</th>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="javascript logo" />
         <img width="10" />
         <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
@@ -51,7 +51,8 @@
       </td>
     </tr>
     <tr>
-      <th align="center">Frontend & Frameworks</th>
+      <th width="50%" align="center">Frontend & Frameworks</th>
+      <th width="50%" align="center">Backend & Database</th>
     </tr>
     <tr>
       <td align="center">
@@ -61,11 +62,6 @@
         <img width="10" />
         <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
       </td>
-    </tr>
-    <tr>
-      <th align="center">Backend & Database</th>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
         <img width="10" />
@@ -75,7 +71,8 @@
       </td>
     </tr>
     <tr>
-      <th align="center">Mobile, Game & 3D</th>
+      <th width="50%" align="center">Mobile, Game & 3D</th>
+      <th width="50%" align="center">DevOps</th>
     </tr>
     <tr>
       <td align="center">
@@ -85,11 +82,6 @@
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo" />
       </td>
-    </tr>
-    <tr>
-      <th align="center">DevOps</th>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
         <img width="10" />
@@ -97,10 +89,10 @@
       </td>
     </tr>
     <tr>
-      <th align="center">Tools & IDEs</th>
+      <th colspan="2" align="center">Tools & IDEs</th>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
