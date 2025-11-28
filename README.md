@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sithumli Nanayakkara</h1>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR6Z21tNXp1OGQ0dXA5YmF1a2VsdHRzbHM0b3Y2NHFqbW01aHlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ma0X1M9lQB4FruMaX3/giphy.gif" width="100%" alt="Animated Poster" />
+</div>
 <h3 align="center">An energetic and friendly programmer with a passion for creating engaging and innovative software solutions. I thrive in dynamic environments and enjoy collaborating with others to bring ideas to life.</h3>
 
 <br>🏆 **Skills**<br>
