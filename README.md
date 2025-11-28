@@ -29,31 +29,6 @@
 <div align="center">
   <table>
     <tr>
-      <th align="center">Programming Languages</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="javascript logo" />
-        <img width="10" />
-        <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
-        <img width="10" />
-        <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
-        <img width="10" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-        <img width="10" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
-        <img width="10" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo" />
-        <img width="10" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo" />
-        <img width="10" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
-      </td>
-    </tr>
-
-<div align="center">
-  <table>
-    <tr>
       <td align="center"><b>Programming Languages</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="javascript logo" />
