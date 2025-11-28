@@ -51,10 +51,30 @@
       </td>
     </tr>
 
+<div align="center">
+  <table>
     <tr>
-      <th align="center">Frontend & Frameworks</th>
+      <td align="center"><b>Programming Languages</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="javascript logo" />
+        <img width="10" />
+        <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
+        <img width="10" />
+        <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
+      </td>
     </tr>
     <tr>
+      <td align="center"><b>Frontend & Frameworks</b></td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
         <img width="10" />
@@ -63,11 +83,8 @@
         <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
       </td>
     </tr>
-
     <tr>
-      <th align="center">Backend & Database</th>
-    </tr>
-    <tr>
+      <td align="center"><b>Backend & Database</b></td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
         <img width="10" />
@@ -76,11 +93,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
       </td>
     </tr>
-
     <tr>
-      <th align="center">Mobile, Game & 3D</th>
-    </tr>
-    <tr>
+      <td align="center"><b>Mobile, Game & 3D</b></td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo" />
         <img width="10" />
@@ -89,22 +103,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo" />
       </td>
     </tr>
-
     <tr>
-      <th align="center">DevOps</th>
-    </tr>
-    <tr>
+      <td align="center"><b>DevOps</b></td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
         <img width="10" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
       </td>
     </tr>
-
     <tr>
-      <th align="center">Tools & IDEs</th>
-    </tr>
-    <tr>
+      <td align="center"><b>Tools & IDEs</b></td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
         <img width="10" />
